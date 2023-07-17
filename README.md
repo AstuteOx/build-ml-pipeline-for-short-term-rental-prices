@@ -8,6 +8,7 @@ In this project you will build such a pipeline.
 
 Project details:
 Github repo: https://github.com/AstuteOx/build-ml-pipeline-for-short-term-rental-prices
+
 W&B project: https://wandb.ai/rose-house/nyc_airbnb
 
 ## Table of contents
